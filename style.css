@@ -1,0 +1,56 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Macondo&family=Pangolin&family=Salsa&display=swap');
+
+
+.pangolin-regular {
+    font-family: "Pangolin", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .itim-regular {
+    font-family: "Itim", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .salsa-regular {
+    font-family: "Salsa", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .macondo-regular {
+    font-family: "Macondo", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+
+.animation{
+    height: 100vh;
+    width: 100vw;
+}
+
+.testText{
+    font-family: pangolin;
+    font-size: 3rem;
+    padding: 10vh;
+}
+
+.navlink{
+    font-family: pangolin;
+    font-size: 3rem;
+    background: cyan;
+    color: white;
+    border-radius: 4rem;
+    padding: 21px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    padding: 2vh;
+}
+
